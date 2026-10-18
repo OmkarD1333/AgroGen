@@ -17,6 +17,7 @@ python-multipart
 
 requests
 httpx
+google-auth
 
 langchain
 langchain-google-genai
